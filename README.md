@@ -18,7 +18,7 @@ Public-facing blog view for all users
 
 Role-based access control (Admin vs Users)
 
-Responsive and user-friendly interface
+User-friendly interface
 
 ---
 
