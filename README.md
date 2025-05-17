@@ -5,7 +5,9 @@ Admin has full control to post content, manage (approve/delete) comments, and ma
 
 Users can view published blog posts and leave comments (subject to admin approval).
 
-Features
+---
+
+## Features
 Admin authentication and dashboard
 
 Create, edit, and delete blog posts (admin only)
@@ -18,7 +20,9 @@ Role-based access control (Admin vs Users)
 
 Responsive and user-friendly interface
 
-🛠 Tech Stack
+---
+
+## Tech Stack
 Backend: Django (Python)
 
 Frontend: HTML, CSS, JavaScript (with Django templates)
