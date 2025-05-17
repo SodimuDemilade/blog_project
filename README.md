@@ -14,11 +14,9 @@ Create, edit, and delete blog posts (admin only)
 
 Comment system with moderation
 
-Public-facing blog view for all users
+User-friendly blog view for all users
 
 Role-based access control (Admin vs Users)
-
-User-friendly interface
 
 ---
 
