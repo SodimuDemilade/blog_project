@@ -8,23 +8,23 @@ Users can view published blog posts and leave comments (subject to admin approva
 ---
 
 ## Features
-Admin authentication and dashboard
+- Admin authentication and dashboard
 
-Create, edit, and delete blog posts (admin only)
+- Create, edit, and delete blog posts (admin only)
 
-Comment system with moderation
+- Comment system with moderation
 
-User-friendly blog view for all users
+- User-friendly blog view for all users
 
-Role-based access control (Admin vs Users)
+- Role-based access control (Admin vs Users)
 
 ---
 
 ## Tech Stack
-Backend: Django (Python)
+- Backend: Django (Python)
 
-Frontend: HTML, CSS, JavaScript (with Django templates)
+- Frontend: HTML, CSS, JavaScript (with Django templates)
 
-Database: SQLite
+- Database: SQLite
 
-Authentication: Django’s built-in user authentication system
+- Authentication: Django’s built-in user authentication system
