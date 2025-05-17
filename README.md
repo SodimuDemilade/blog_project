@@ -1,4 +1,4 @@
-# blog_project
+# Blog_project
 This is a simple blog platform built with the core idea of role-based interaction:
 
 Admin has full control to post content, manage (approve/delete) comments, and maintain the blog.
